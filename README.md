@@ -134,12 +134,6 @@ The dataset contains several medical features that are commonly used to diagnose
 
 ---
 
-## 🏁 Conclusion
-
-This project demonstrates how Logistic Regression can be used to predict heart disease using patient medical information. From preprocessing and model training to evaluation and prediction, it provides a complete understanding of building a binary classification model for healthcare applications.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -148,3 +142,10 @@ This project demonstrates how Logistic Regression can be used to predict heart d
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+This project demonstrates how Logistic Regression can be used to predict heart disease using patient medical information. From preprocessing and model training to evaluation and prediction, it provides a complete understanding of building a binary classification model for healthcare applications.
+
